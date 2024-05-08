@@ -1,3 +1,7 @@
+# Program by Daniel Rein M. Cosare
+# Do the programming exercise on CMPE-103-Module-3-Exception-Handling-in-Python. Page21.
+# Date Created: May 8, 2024
+
 def add(x, y):
     return x + y
 
